@@ -1,5 +1,5 @@
 
-<img src = "baner.gif" width = "325" align = "right">
+<img src = "giphy.gif" width = "325" align = "right">
 
 # Seja bem vindo/a ao meu GitHub! ✌
 Sou estudante acadêmico da FIAP, amo a área de técnologia e sou integrante do grupo E-tree.
